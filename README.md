@@ -93,5 +93,5 @@ Thus getting:
 𝛙q = Lq ⋅ Iq ⋅ F(s)
 
 For this motor MTPA condition, without saturation, reached under Id = Iq, 
-and MTPV condition under | Vd | = | Vq |
+and MTPV condition under | Vd | = Vq
 ```
