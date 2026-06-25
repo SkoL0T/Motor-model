@@ -1,5 +1,5 @@
 Permament Magnet Synchronous Motor
-
+```
 Vd = - V ⋅ sin(σ)
 Vq = V ⋅ cos(σ)
 V = √ (Vd^2 + Vq^2)
@@ -92,3 +92,4 @@ Thus getting:
 
 For this motor MTPA condition, without saturation, reached under Id = Iq, 
 and MTPV condition under | Vd | = | Vq |
+```
