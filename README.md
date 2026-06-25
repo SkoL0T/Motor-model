@@ -1,4 +1,5 @@
 Permament Magnet Synchronous Motor
+
 ```
 Vd = - V ⋅ sin(σ)
 Vq = V ⋅ cos(σ)
@@ -41,10 +42,11 @@ T = 𝛙rotor ⋅ Iq
 
 For this motor MTPA condition reached under Id  = 0, 
 and MTPV condition under Vq = 0
-
+```
 
 Synchronous Reluctance Motor
 
+```
 Vd = - V ⋅ sin(σ)
 Vq = V ⋅ cos(σ)
 V = √ (Vd^2 + Vq^2)
